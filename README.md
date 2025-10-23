@@ -1,5 +1,5 @@
 # Laporan Proyek Machine Learning  
-## Credit Card Users Churn Prediction  
+## Employee Attrition Prediction  
 **Muhammad Tsaqif** — *MC004D5Y2062*
 
 ---
