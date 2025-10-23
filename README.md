@@ -1,6 +1,8 @@
-# Laporan Proyek Machine Learning  
+# Laporan Tugas 1 Statistics Machine Learning  
 ## Employee Attrition Prediction  
-**Muhammad Tsaqif** — *MC004D5Y2062*
+**Rochmat Pornomo Prasetya** — *5003231007*
+**Raffly Isya Ramadhan** — *5003231135*
+**Andyka Nabil Putra** — *5003231140*
 
 ---
 ## Daftar Isi
@@ -54,7 +56,7 @@
 ## **Domain Proyek: Keuangan**
 
 <figure>
-    <center><img src="img/credit-card-terminal-payment.jpg" alt="Credit Card"></center>
+    <center><img src="[img/credit-card-terminal-payment.jpg](https://whatfix.com/blog/wp-content/uploads/2022/09/employee-churn.png)" alt="Employee Attrition"></center>
 </figure>
 
 Penggunaan kartu kredit merupakan salah satu layanan keuangan yang memberikan kontribusi signifikan terhadap pendapatan sebuah bank. Melalui berbagai jenis biaya seperti biaya tahunan, biaya keterlambatan pembayaran, biaya penarikan tunai, serta biaya transaksi internasional, kartu kredit menjadi salah satu pilar utama dalam model bisnis perbankan ritel [[1]](https://www.bostonfed.org/publications/research-department-working-paper/2010/the-2009-survey-of-consumer-payment-choice.aspx). Namun, belakangan ini, terjadi peningkatan jumlah pelanggan yang menghentikan penggunaan layanan kartu kredit, yang dikenal sebagai fenomena *credit card churn*. Hal ini menimbulkan kekhawatiran bagi manajemen bank karena dapat berdampak langsung terhadap pendapatan dan stabilitas bisnis jangka panjang [[2]](https://www2.deloitte.com/us/en/insights/industry/financial-services/credit-card-customer-churn.html).
