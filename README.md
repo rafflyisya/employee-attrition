@@ -59,38 +59,38 @@
     <center><img src="[img/credit-card-terminal-payment.jpg](https://whatfix.com/blog/wp-content/uploads/2022/09/employee-churn.png)" alt="Employee Attrition"></center>
 </figure>
 
-Penggunaan kartu kredit merupakan salah satu layanan keuangan yang memberikan kontribusi signifikan terhadap pendapatan sebuah bank. Melalui berbagai jenis biaya seperti biaya tahunan, biaya keterlambatan pembayaran, biaya penarikan tunai, serta biaya transaksi internasional, kartu kredit menjadi salah satu pilar utama dalam model bisnis perbankan ritel [[1]](https://www.bostonfed.org/publications/research-department-working-paper/2010/the-2009-survey-of-consumer-payment-choice.aspx). Namun, belakangan ini, terjadi peningkatan jumlah pelanggan yang menghentikan penggunaan layanan kartu kredit, yang dikenal sebagai fenomena *credit card churn*. Hal ini menimbulkan kekhawatiran bagi manajemen bank karena dapat berdampak langsung terhadap pendapatan dan stabilitas bisnis jangka panjang [[2]](https://www2.deloitte.com/us/en/insights/industry/financial-services/credit-card-customer-churn.html).
+Manajemen sumber daya manusia merupakan salah satu aspek krusial dalam menjaga keberlanjutan dan daya saing perusahaan di era bisnis modern. Keberhasilan sebuah organisasi tidak hanya ditentukan oleh strategi bisnis dan inovasi produk, tetapi juga oleh kemampuan dalam mempertahankan karyawan yang berkompeten dan berprestasi. Fenomena tingginya tingkat attrition atau employee turnover menjadi tantangan yang signifikan karena dapat menimbulkan berbagai konsekuensi, mulai dari meningkatnya biaya rekrutmen dan pelatihan, terganggunya produktivitas, hingga menurunnya moral kerja tim [[1]](https://www.americanprogress.org/article/there-are-significant-business-costs-to-replacing-employees/?utm_source).
+Banyak perusahaan kini berinvestasi dalam strategi retensi untuk menekan laju turnover, seperti peningkatan kepuasan kerja, penyesuaian beban kerja, dan pengembangan jalur karier yang lebih jelas [[2]](https://www.achievers.com/blog/employee-turnover-by-industry/?utm_source). Namun, memahami penyebab karyawan keluar tidaklah sederhana, karena keputusan tersebut dipengaruhi oleh berbagai faktor—baik dari sisi individu, seperti kepuasan dan keseimbangan kerja, maupun dari sisi organisasi, seperti lingkungan kerja dan kebijakan perusahaan [[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC9309793/?utm_source).
+Untuk menghadapi tantangan ini, pendekatan berbasis data menjadi solusi yang menjanjikan. Dengan memanfaatkan data profil karyawan, lingkungan kerja, serta status kepegawaian, perusahaan dapat mengembangkan model prediktif yang mampu mengidentifikasi karyawan berisiko tinggi untuk keluar. Melalui penerapan teknik data science dan machine learning, organisasi tidak hanya dapat memprediksi potensi turnover dengan lebih akurat, tetapi juga memperoleh wawasan strategis mengenai faktor-faktor utama yang memengaruhi retensi. Pendekatan ini memungkinkan manajemen untuk mengambil langkah proaktif dalam menjaga stabilitas tenaga kerja, meningkatkan kepuasan karyawan, dan memperkuat daya saing jangka panjang perusahaan.
 
-Fenomena churn dapat dipengaruhi oleh berbagai faktor, seperti ketidakpuasan pelanggan terhadap layanan, persaingan dari institusi keuangan lain, atau perubahan dalam perilaku keuangan individu [[3]](https://doi.org/10.5120/ijca2017914142). Oleh karena itu, penting bagi institusi keuangan untuk tidak hanya memahami siapa saja pelanggan yang berisiko tinggi melakukan churn, tetapi juga mengidentifikasi alasan-alasan yang mendasarinya. Dengan pendekatan yang tepat, bank dapat mengambil langkah preventif, seperti meningkatkan layanan pelanggan, menawarkan program loyalitas, atau menyesuaikan produk agar lebih sesuai dengan kebutuhan pengguna.
-
-Proyek ini berada dalam domain analisis perilaku pelanggan dan manajemen risiko keuangan, dengan fokus pada pengembangan model prediksi berbasis data untuk mengidentifikasi pelanggan yang berpotensi meninggalkan layanan kartu kredit. Dengan memanfaatkan teknik data science dan machine learning, bank dapat memprediksi perilaku churn secara lebih akurat dan melakukan intervensi yang bersifat proaktif untuk mempertahankan pelanggan dan meminimalisir kerugian finansial yang mungkin timbul.
 
 ---
 
 **Referensi:**
 
-[1] Federal Reserve Bank of Boston (2010). *The 2009 Survey of Consumer Payment Choice*. Retrieved from [https://www.bostonfed.org](https://www.bostonfed.org/publications/research-department-working-paper/2010/the-2009-survey-of-consumer-payment-choice.aspx)  
-[2] Deloitte (2018). *The changing face of credit card churn*. Retrieved from [https://www2.deloitte.com](https://www2.deloitte.com/us/en/insights/industry/financial-services/credit-card-customer-churn.html)  
-[3] Zhang, J., & Feng, X. (2017). *Customer Churn Prediction in Credit Card Industry Using Data Mining Techniques*. International Journal of Computer Applications, 166(1), 1–6. [https://doi.org/10.5120/ijca2017914142](https://doi.org/10.5120/ijca2017914142)
+[1] American Progress (2012). *There Are Significant Business Costs to Replacing Employees
+*. Retrieved from [https://www.americanprogress.org/](https://www.americanprogress.org/article/there-are-significant-business-costs-to-replacing-employees/?utm_source)  
+[2] Achievers (2025). *Employee turnover by industry: The hidden cost of attrition in 2025*. Retrieved from [https://www.achievers.com/sg/](https://www.achievers.com/blog/employee-turnover-by-industry/?utm_source)  
+[3] National Library of Medicine (2022). *Factors Affecting Employee’s Retention: Integration of Situational Leadership With Social Exchange Theory*. International Journal of Computer Applications, 166(1), 1–6. [https://pmc.ncbi.nlm.nih.gov/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9309793/?utm_source)
 
 ---
 
 ## Business Understanding
 
 ### Problem Statements  
-Dalam industri perbankan, layanan kartu kredit merupakan salah satu sumber utama pendapatan. Namun, bank menghadapi tantangan serius karena meningkatnya jumlah pelanggan yang berhenti menggunakan layanan ini (*credit card churn*). Tingginya angka churn tidak hanya berdampak pada hilangnya pendapatan langsung, tetapi juga meningkatkan beban biaya untuk akuisisi pelanggan baru.
+Dalam dunia bisnis modern, sumber daya manusia menjadi aset strategis yang menentukan keberlanjutan dan daya saing perusahaan. Namun, banyak organisasi menghadapi tantangan serius berupa meningkatnya jumlah karyawan yang meninggalkan perusahaan atau dikenal sebagai employee attrition (turnover). Tingginya tingkat turnover tidak hanya menyebabkan hilangnya talenta dan pengetahuan berharga, tetapi juga menimbulkan biaya besar bagi perusahaan, seperti rekrutmen, pelatihan, serta penurunan produktivitas dan moral kerja tim. Oleh karena itu, penting bagi manajemen untuk memahami faktor-faktor yang memengaruhi keputusan karyawan untuk bertahan atau keluar. Melalui analisis berbasis data yang mencakup profil karyawan, kondisi kerja, tingkat kepuasan, jam lembur, dan keseimbangan kerja–hidup, perusahaan dapat membangun model prediktif menggunakan pendekatan data science dan machine learning untuk memproyeksikan risiko attrition. Dengan demikian, organisasi dapat mengambil langkah preventif yang lebih tepat sasaran dalam meningkatkan retensi, kepuasan kerja, serta mengurangi kerugian finansial akibat tingginya tingkat pergantian karyawan.
 
 Berdasarkan hal tersebut, berikut adalah pernyataan masalah yang diangkat:
 
-- **Pernyataan Masalah 1:** Bagaimana mengidentifikasi faktor-faktor penting yang memengaruhi keputusan pelanggan untuk berhenti menggunakan layanan kartu kredit?
-- **Pernyataan Masalah 2:** Bagaimana membangun model prediksi yang mampu memperkirakan kemungkinan seorang pelanggan akan melakukan churn dengan tingkat akurasi tinggi?  
-- **Pernyataan Masalah 3:** Bagaimana menyusun strategi berbasis data untuk menurunkan tingkat churn, serta meningkatkan retensi dan pengalaman pelanggan?
+- **Pernyataan Masalah 1:** Bagaimana mengidentifikasi faktor-faktor utama yang memengaruhi keputusan karyawan untuk meninggalkan perusahaan (employee attrition)?
+- **Pernyataan Masalah 2:** Bagaimana membangun model prediksi yang mampu memperkirakan kemungkinan seorang karyawan akan keluar dengan tingkat akurasi yang tinggi?
+- **Pernyataan Masalah 3:** Bagaimana memanfaatkan hasil analisis data untuk merumuskan strategi retensi yang efektif dalam meningkatkan kepuasan, keterikatan, dan loyalitas karyawan terhadap perusahaan?
 
 ### Goals  
 Untuk menjawab pernyataan masalah di atas, tujuan proyek ini dirumuskan sebagai berikut:
 
-- **Tujuan 1:** Melakukan eksplorasi dan analisis data historis pelanggan untuk mengidentifikasi pola dan fitur yang berkorelasi tinggi terhadap perilaku churn.  
-- **Tujuan 2:** Membangun model prediktif berbasis machine learning yang mampu menghitung probabilitas churn dari masing-masing pelanggan.  
+- **Tujuan 1:** Melakukan eksplorasi dan analisis data historis karyawan untuk mengidentifikasi pola dan variabel yang memiliki korelasi tinggi terhadap perilaku employee attrition (keputusan karyawan untuk keluar). 
+- **Tujuan 2:** Membangun model prediktif berbasis machine learning yang mampu memperkirakan probabilitas seorang karyawan akan meninggalkan perusahaan.
 - **Tujuan 3:** Memberikan rekomendasi dan rencana aksi yang berbasis pada hasil prediksi model untuk meningkatkan retensi pelanggan dan memaksimalkan _Customer Lifetime Value_ (CLV).
 
 ### Solution Statements  
@@ -118,107 +118,91 @@ Untuk mencapai tujuan-tujuan tersebut, solusi yang akan diimplementasikan melipu
 ### Project Benefits  
 Dengan implementasi solusi ini, manfaat utama yang diharapkan antara lain:
 
-- **Penghematan Biaya:** Mengurangi kebutuhan akuisisi pelanggan baru dengan mempertahankan pelanggan lama.  
-- **Peningkatan Retensi Pelanggan:** Menyasar pelanggan berisiko tinggi dengan pendekatan personalisasi.  
-- **Peningkatan Pengalaman Pelanggan:** Mengidentifikasi titik-titik frustasi dalam layanan dan melakukan perbaikan.  
-- **Pemasaran yang Lebih Efisien:** Mengalokasikan sumber daya pemasaran pada segmen pelanggan yang paling membutuhkan.  
-- **Perlindungan Pendapatan:** Menjaga stabilitas pendapatan dari segmen kartu kredit jangka panjang.
+- **Penghematan Biaya:** Mengurangi biaya rekrutmen, pelatihan, dan onboarding karyawan baru dengan mempertahankan karyawan yang ada.  
+- **Peningkatan Retensi Pelanggan:** Mengidentifikasi karyawan berisiko tinggi untuk keluar dan memungkinkan intervensi retensi yang tepat sasaran dan personal.
+- **Perencanaan SDM yang lebih efisien:** Mengalokasikan sumber daya departemen HR untuk program retensi dan pengembangan secara lebih strategis berdasarkan data.
+- **Perbaikan budaya perusahaan:** Mengidentifikasi akar penyebab attrition (seperti kepuasan kerja, work-life balance, atau hubungan dengan manajer) untuk membentuk lingkungan kerja yang lebih positif.  
+- **Perlindungan Aset Pengetahuan:** Mencegah hilangnya pengetahuan institusional (institutional knowledge) dan keahlian kritis ketika karyawan berpengalaman meninggalkan perusahaan.
 
 ---
 
 ## Data Understanding
 
 ### Sumber Data  
-Dataset yang digunakan dalam proyek ini diperoleh dari situs [Kaggle](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers/data). Dataset ini mencakup informasi tentang **10.127 pelanggan** layanan kartu kredit, yang mencatat berbagai aspek demografis dan perilaku transaksi pelanggan.
+Dataset yang digunakan dalam proyek ini diperoleh dari situs [Kaggle](www.kaggle.com/competitions/tugas-1-sml-a-2025/overview/citation). Dataset ini mencakup informasi tentang **1.467 karyawant**, yang mencatat berbagai aspek kondisi dan identitas yang mempresentasikan kecenderungan karyawan untuk melakukan attrition.
 
-Dataset ini memiliki **21 fitur**, yang mencakup usia, gaji, status pernikahan, limit kartu kredit, jenis kartu, aktivitas akun, dan lainnya. Di antara seluruh pelanggan, hanya sekitar **16,07%** yang termasuk dalam kategori churn (berhenti menggunakan layanan). Ketidakseimbangan kelas ini menjadikan proses pelatihan model prediktif sebagai tantangan tersendiri.
+Dataset ini memiliki **35 fitur**, yang mencakup usia, frekuensi perjalanan, gaji harian, jarak tempat tinggal, tingkat pendidikan, tingkat kepuasan pekerjaan, dan lainnya. proyek ini bertujuan memprediksi employee attrition dimana sebesar 83,84% karyawan yang termasuk kategori attrition. Kondisi ketidakseimbangan kelas ini menjadi tantangan utama dalam membangun model prediktif yang akurat untuk mengidentifikasi pola-pola karyawan berisiko keluar dari perusahaan.
 
 ### Deskripsi Fitur
 
-| Nama Fitur                         | Deskripsi                                                                 | Tipe Data    |
+| Nama Fitur                         | Deskripsi                                                                 | Tipe Data    |
 |------------------------------------|---------------------------------------------------------------------------|--------------|
-| `CLIENTNUM`                        | ID unik pelanggan                                                         | `int64`      |
-| `Attrition_Flag` => `churn_flag`   | Status churn: `Attrited Customer` atau `Existing Customer`                | `object`     |
-| `customer_age`                     | Usia pelanggan (dalam tahun)                                              | `int64`      |
-| `gender`                           | Jenis kelamin pelanggan (`M`/`F`)                                         | `object`     |
-| `dependent_count`                  | Jumlah tanggungan                                                         | `int64`      |
-| `education_level`                  | Tingkat pendidikan: Graduate, High School, College, dll.                  | `object`     |
-| `marital_status`                   | Status pernikahan pelanggan                                               | `object`     |
-| `income_category`                  | Kategori pendapatan tahunan pelanggan                                     | `object`     |
-| `card_category`                    | Jenis kartu kredit                                                        | `object`     |
-| `months_on_book`                   | Lama hubungan dengan bank (dalam bulan)                                   | `int64`      |
-| `total_relationship_count`         | Jumlah produk perbankan yang dimiliki                                     | `int64`      |
-| `months_inactive_12_mon`           | Jumlah bulan tidak aktif dalam 12 bulan terakhir                          | `int64`      |
-| `contacts_count_12_mon`            | Jumlah interaksi dengan bank dalam 12 bulan terakhir                      | `int64`      |
-| `credit_limit`                     | Batas maksimal kredit kartu pelanggan                                     | `float64`    |
-| `total_revolving_bal`              | Saldo bergulir (tidak dibayar penuh)                                      | `int64`      |
-| `avg_open_to_buy`                  | Rata-rata jumlah kredit yang tersedia untuk digunakan                     | `float64`    |
-| `total_amt_chng_q4_q1`             | Perubahan jumlah transaksi dari Q1 ke Q4                                  | `float64`    |
-| `total_trans_amt`                  | Total nilai transaksi selama 12 bulan terakhir                            | `int64`      |
-| `total_trans_ct`                   | Total jumlah transaksi selama 12 bulan terakhir                           | `int64`      |
-| `total_ct_chng_q4_q1`              | Perubahan jumlah transaksi dari Q1 ke Q4                                  | `float64`    |
-| `avg_utilization_ratio`            | Rata-rata rasio pemanfaatan limit kredit                                  | `float64`    |
+| `id`                        | ID unik karyawan untuk identifikasi                                                         | `int64`      |
+| `Age`   | Usia karyawan                | `int64t`     |
+| `BusinessTravel`                     | Usia pelanggan (dalam tahun)                                              | `int64`      |
+| `DailyRate`                           | Jenis kelamin pelanggan (`M`/`F`)                                         | `object`     |
+| `Department`                  | Jumlah tanggungan                                                         | `int64`      |
+| `DistanceFromHome`                  | Tingkat pendidikan: Graduate, High School, College, dll.                  | `object`     |
+| `Education`                   | Status pernikahan pelanggan                                               | `object`     |
+| `EducationField`                  | Kategori pendapatan tahunan pelanggan                                     | `object`     |
+| `EmployeeCount`                    | Jenis kartu kredit                                                        | `object`     |
+| `EmployeeNumber`                   | Lama hubungan dengan bank (dalam bulan)                                   | `int64`      |
+| `EnvironmentSatisfaction`         | Jumlah produk perbankan yang dimiliki                                     | `int64`      |
+| `months_inactive_12_mon`           | Jumlah bulan tidak aktif dalam 12 bulan terakhir                          | `int64`      |
+| `contacts_count_12_mon`            | Jumlah interaksi dengan bank dalam 12 bulan terakhir                      | `int64`      |
+| `credit_limit`                     | Batas maksimal kredit kartu pelanggan                                     | `float64`    |
+| `total_revolving_bal`              | Saldo bergulir (tidak dibayar penuh)                                      | `int64`      |
+| `avg_open_to_buy`                  | Rata-rata jumlah kredit yang tersedia untuk digunakan                     | `float64`    |
+| `total_amt_chng_q4_q1`             | Perubahan jumlah transaksi dari Q1 ke Q4                                  | `float64`    |
+| `total_trans_amt`                  | Total nilai transaksi selama 12 bulan terakhir                            | `int64`      |
+| `total_trans_ct`                   | Total jumlah transaksi selama 12 bulan terakhir                           | `int64`      |
+| `total_ct_chng_q4_q1`              | Perubahan jumlah transaksi dari Q1 ke Q4                                  | `float64`    |
+| `avg_utilization_ratio`            | Rata-rata rasio pemanfaatan limit kredit                                  | `float64`    |
 
-### Penjelasan Kontekstual Fitur
-
-- **Revolving Balance**  
-  Saldo bergulir adalah jumlah saldo yang tidak dibayar penuh setiap bulan dan dibawa ke bulan berikutnya. Kolom `Total_Revolving_Bal` merepresentasikan nilai ini.
-
-- **Average Open to Buy**  
-  `Avg_Open_To_Buy` adalah rata-rata jumlah kredit yang masih tersedia untuk digunakan selama 12 bulan terakhir.
-
-- **Average Utilization Ratio**  
-  `Avg_Utilization_Ratio` menunjukkan persentase dari limit kredit yang digunakan oleh pelanggan. Rasio ini berkaitan erat dengan skor kredit dan stabilitas finansial pelanggan.
-
-- **Hubungan antara `Avg_Open_To_Buy`, `Credit_Limit`, dan `Avg_Utilization_Ratio`**  
-  Nilai-nilai ini secara matematis berkaitan sebagai berikut:
-  $$
-    \frac{Avg \; Open \; To \; Buy}{Credit \; Limit} + Avg \; Utilization \; Ratio = 1
-  $$
 
 ### [Exploratory Data Analysis] - Deskripsi Variabel
 
-| Fitur                       | Count   | Mean         | Std          | Min       | 25%          | 50%          | 75%          | Max          |
+| Fitur                       | Count   | Mean         | Std          | Min       | 25%          | 50%          | 75%          | Max          |
 |-----------------------------|---------|--------------|--------------|-----------|--------------|--------------|--------------|--------------|
-| `clientnum`                 | 10127   | 7.391776e+08 | 3.690378e+07 | 708082083 | 7.130368e+08 | 7.179264e+08 | 7.731435e+08 | 8.283431e+08 |
-| `customer_age`              | 10127   | 46.32596     | 8.016814     | 26.0      | 41.0         | 46.0         | 52.0         | 73.0         |
-| `dependent_count`           | 10127   | 2.346203     | 1.298908     | 0.0       | 1.0          | 2.0          | 3.0          | 5.0          |
-| `months_on_book`            | 10127   | 35.92841     | 7.986416     | 13.0      | 31.0         | 36.0         | 40.0         | 56.0         |
-| `total_relationship_count`  | 10127   | 3.812580     | 1.554408     | 1.0       | 3.0          | 4.0          | 5.0          | 6.0          |
-| `months_inactive_12_mon`    | 10127   | 2.341167     | 1.010622     | 0.0       | 2.0          | 2.0          | 3.0          | 6.0          |
-| `contacts_count_12_mon`     | 10127   | 2.455317     | 1.106225     | 0.0       | 2.0          | 2.0          | 3.0          | 6.0          |
-| `credit_limit`              | 10127   | 8631.954     | 9088.777     | 1438.3    | 2555.0       | 4549.0       | 11067.5      | 34516.0      |
-| `total_revolving_bal`       | 10127   | 1162.814     | 814.9873     | 0.0       | 359.0        | 1276.0       | 1784.0       | 2517.0       |
-| `avg_open_to_buy`           | 10127   | 7469.140     | 9090.685     | 3.0       | 1324.5       | 3474.0       | 9859.0       | 34516.0      |
-| `total_amt_chng_q4_q1`      | 10127   | 0.759941     | 0.219207     | 0.0       | 0.631        | 0.736        | 0.859        | 3.397        |
-| `total_trans_amt`           | 10127   | 4404.086     | 3397.129     | 510.0     | 2155.5       | 3899.0       | 4741.0       | 18484.0      |
-| `total_trans_ct`            | 10127   | 64.85869     | 23.47257     | 10.0      | 45.0         | 67.0         | 81.0         | 139.0        |
-| `total_ct_chng_q4_q1`       | 10127   | 0.712222     | 0.238086     | 0.0       | 0.582        | 0.702        | 0.818        | 3.714        |
-| `avg_utilization_ratio`     | 10127   | 0.274894     | 0.275692     | 0.0       | 0.023        | 0.176        | 0.503        | 0.999        |
+| `clientnum`                 | 10127   | 7.391776e+08 | 3.690378e+07 | 708082083 | 7.130368e+08 | 7.179264e+08 | 7.731435e+08 | 8.283431e+08 |
+| `customer_age`              | 10127   | 46.32596     | 8.016814     | 26.0      | 41.0         | 46.0         | 52.0         | 73.0         |
+| `dependent_count`           | 10127   | 2.346203     | 1.298908     | 0.0       | 1.0          | 2.0          | 3.0          | 5.0          |
+| `months_on_book`            | 10127   | 35.92841     | 7.986416     | 13.0      | 31.0         | 36.0         | 40.0         | 56.0         |
+| `total_relationship_count`  | 10127   | 3.812580     | 1.554408     | 1.0       | 3.0          | 4.0          | 5.0          | 6.0          |
+| `months_inactive_12_mon`    | 10127   | 2.341167     | 1.010622     | 0.0       | 2.0          | 2.0          | 3.0          | 6.0          |
+| `contacts_count_12_mon`     | 10127   | 2.455317     | 1.106225     | 0.0       | 2.0          | 2.0          | 3.0          | 6.0          |
+| `credit_limit`              | 10127   | 8631.954     | 9088.777     | 1438.3    | 2555.0       | 4549.0       | 11067.5      | 34516.0      |
+| `total_revolving_bal`       | 10127   | 1162.814     | 814.9873     | 0.0       | 359.0        | 1276.0       | 1784.0       | 2517.0       |
+| `avg_open_to_buy`           | 10127   | 7469.140     | 9090.685     | 3.0       | 1324.5       | 3474.0       | 9859.0       | 34516.0      |
+| `total_amt_chng_q4_q1`      | 10127   | 0.759941     | 0.219207     | 0.0       | 0.631        | 0.736        | 0.859        | 3.397        |
+| `total_trans_amt`           | 10127   | 4404.086     | 3397.129     | 510.0     | 2155.5       | 3899.0       | 4741.0       | 18484.0      |
+| `total_trans_ct`            | 10127   | 64.85869     | 23.47257     | 10.0      | 45.0         | 67.0         | 81.0         | 139.0        |
+| `total_ct_chng_q4_q1`       | 10127   | 0.712222     | 0.238086     | 0.0       | 0.582        | 0.702        | 0.818        | 3.714        |
+| `avg_utilization_ratio`     | 10127   | 0.274894     | 0.275692     | 0.0       | 0.023        | 0.176        | 0.503        | 0.999        |
      
-Dataset ini mencerminkan profil **10.127 pelanggan bank** dengan **usia rata-rata 46 tahun** dan sebagian besar memiliki **2–3 tanggungan**. Sebagian besar telah menjadi nasabah selama sekitar **3 tahun** dan memiliki **3–5 produk perbankan**. Aktivitas transaksi bervariasi, dengan rata-rata **65 transaksi** dan nilai transaksi tahunan sekitar **4.400**. Meskipun ***sebagian besar hanya tidak aktif selama 2 bulan dalam setahun**, ada juga yang hingga **6 bulan tidak aktif**. Pelanggan menggunakan sekitar **27% dari batas kredit mereka**, namun ada yang hampir mencapai **100%**, menunjukkan potensi risiko kredit. Perubahan transaksi antar kuartal menunjukkan adanya penurunan aktivitas secara rata-rata. Temuan ini menunjukkan adanya variasi perilaku nasabah yang dapat dimanfaatkan untuk prediksi churn pelanggan.
+Berdasarkan hasil analisis data, profil **1.467** karyawan menunjukkan karakteristik kunci **usia rata-rata 37 tahun** dengan **masa kerja rata-rata 7 tahun** di perusahaan. Dari segi kompensasi, **gaji bulanan rata-rata Rp 6,5 juta** dengan **kenaikan gaji tahunan 15%**. Temuan penting mengungkap bahwa karyawan **hanya mengalami 1 kali promosi dalam 2 tahun terakhir**, dan rata-rata telah **bekerja di 2-3 perusahaan sebelumnya**. Pola ini mengindikasikan bahwa stagnasi karir dan riwayat mobilitas kerja dapat menjadi faktor prediktif yang signifikan untuk analisis employee attrition.
 
-### Rata-rata Fitur per Kategori Churn Flag
+### Rata-rata Fitur per Kategori Attrition
 
-| Fitur                         | Attrited Customer | Existing Customer |
+| Fitur                         | Attrited Customer | Existing Customer |
 |-------------------------------|-------------------|-------------------|
-| `clientnum`                   | 7.352614e+08      | 7.399272e+08      |
-| `customer_age`                | 46.66             | 46.26             |
-| `dependent_count`             | 2.40              | 2.34              |
-| `months_on_book`              | 36.18             | 35.88             |
-| `total_relationship_count`    | 3.28              | 3.91              |
-| `months_inactive_12_mon`      | 2.69              | 2.27              |
-| `contacts_count_12_mon`       | 2.97              | 2.36              |
-| `credit_limit`                | 8136.04           | 8726.88           |
-| `total_revolving_bal`         | 672.82            | 1256.60           |
-| `avg_open_to_buy`             | 7463.22           | 7470.27           |
-| `total_amt_chng_q4_q1`        | 0.6943            | 0.7725            |
-| `total_trans_amt`             | 3095.03           | 4654.66           |
-| `total_trans_ct`              | 44.93             | 68.67             |
-| `total_ct_chng_q4_q1`         | 0.5544            | 0.7424            |
-| `avg_utilization_ratio`       | 0.1625            | 0.2964            |
+| `clientnum`                   | 7.352614e+08      | 7.399272e+08      |
+| `customer_age`                | 46.66             | 46.26             |
+| `dependent_count`             | 2.40              | 2.34              |
+| `months_on_book`              | 36.18             | 35.88             |
+| `total_relationship_count`    | 3.28              | 3.91              |
+| `months_inactive_12_mon`      | 2.69              | 2.27              |
+| `contacts_count_12_mon`       | 2.97              | 2.36              |
+| `credit_limit`                | 8136.04           | 8726.88           |
+| `total_revolving_bal`         | 672.82            | 1256.60           |
+| `avg_open_to_buy`             | 7463.22           | 7470.27           |
+| `total_amt_chng_q4_q1`        | 0.6943            | 0.7725            |
+| `total_trans_amt`             | 3095.03           | 4654.66           |
+| `total_trans_ct`              | 44.93             | 68.67             |
+| `total_ct_chng_q4_q1`         | 0.5544            | 0.7424            |
+| `avg_utilization_ratio`       | 0.1625            | 0.2964            |
 
-Pelanggan yang churn (Attrited Customer) cenderung memiliki usia sedikit lebih tinggi dan jumlah tanggungan yang sedikit lebih banyak dibanding pelanggan yang tetap (Existing Customer). Mereka juga memiliki hubungan yang lebih singkat dengan bank, lebih sedikit produk perbankan, dan lebih jarang berinteraksi dalam 12 bulan terakhir. Nilai transaksi dan frekuensi transaksi mereka jauh lebih rendah, serta perubahan aktivitas transaksi kuartalan mereka juga lebih kecil. Selain itu, mereka memiliki saldo bergulir yang lebih tinggi dan pemanfaatan kredit yang lebih rendah, menunjukkan potensi kurangnya aktivitas finansial aktif. Secara umum, pelanggan yang churn menunjukkan pola hubungan dan transaksi yang lebih pasif dibanding pelanggan yang tetap.
+Berdasarkan analisis perbandingan antara karyawan yang mengundurkan diri dan yang bertahan, terlihat pola yang signifikan. Karyawan yang keluar cenderung lebih muda dengan masa kerja di perusahaan yang lebih pendek. Mereka juga memiliki pendapatan bulanan yang lebih rendah dan jarak tempuh ke kantor yang lebih jauh. Faktor karir menunjukkan perbedaan mencolok dimana karyawan yang keluar memiliki lebih sedikit pengalaman kerja total, waktu di posisi saat ini yang lebih singkat, dan durasi bekerja dengan manajer yang sama yang lebih pendek. Temuan ini mengindikasikan bahwa karyawan yang lebih muda dengan prospek karir yang terbatas dan keterikatan organisasi yang rendah memiliki kecenderungan lebih besar untuk meninggalkan perusahaan.
 
 ### [Exploratory Data Analysis] - Menangani Missing Value dan Outliers
 
@@ -248,55 +232,40 @@ Dalam tahap awal pembersihan data, dilakukan pengecekan terhadap **duplikasi dat
 | total_ct_chng_q4_q1       | 0                    |
 | avg_utilization_ratio     | 0                    |
 
-Selanjutnya, dilakukan deteksi **outlier** menggunakan metode **Interquartile Range (IQR)** untuk setiap fitur numerik. Hasil analisis menunjukkan bahwa beberapa variabel memiliki jumlah outlier yang cukup signifikan, seperti **credit_limit (9.848 outlier)**, **contacts_count_12_mon (6.297 outlier)**, **months_on_book (3.864 outlier)**, **months_inactive_12_mon (3.316 outlier)**, **total_amt_chng_q4_q1 (3.961 outlier)**, dan **total_ct_chng_q4_q1 (3.941 outlier)**. Keberadaan outlier yang tinggi pada fitur-fitur tersebut mengindikasikan adanya variasi ekstrem dalam perilaku atau karakteristik nasabah, seperti frekuensi transaksi, perubahan aktivitas, dan batas kredit yang tidak biasa. Beberapa fitur lain seperti **avg_open_to_buy (963 outlier)**, **total_trans_amt (896 outlier)**, dan **customer_age (22 outlier)** juga menunjukkan adanya pencilan, meskipun dalam jumlah yang lebih rendah. Sementara itu, variabel seperti **clientnum**, **dependent_count**, **total_revolving_bal**, dan **avg_utilization_ratio** tidak mengandung outlier sama sekali, menandakan distribusi nilai yang relatif stabil untuk fitur-fitur tersebut.
+Berdasarkan hasil deteksi outlier menggunakan metode IQR, teridentifikasi beberapa variabel numerik yang mengandung outlier. Variabel MonthlyIncome memiliki 86 outlier, TrainingTimesLastYear mencatat outlier tertinggi sebanyak 174, dan TotalWorkingYears serta YearsAtCompany masing-masing memiliki 52 outlier. Variabel YearsSinceLastPromotion juga menunjukkan 85 outlier, sementara NumCompaniesWorked memiliki 36 outlier. 
 
-| Variabel                     | Jumlah Outlier |
+Namun, terdapat beberapa variabel yang bersih dari outlier seperti Age, DailyRate, DistanceFromHome, EmployeeNumber, HourlyRate, MonthlyRate, dan PercentSalaryHike. Hasil ini mengindikasikan bahwa sebagian besar outlier terkonsentrasi pada variabel-variabel yang berkaitan dengan pengalaman kerja, kompensasi, dan perkembangan karir karyawan.
+
+| Variabel                     | Jumlah Outlier |
 |------------------------------|----------------|
-| `clientnum`                  | 0              |
-| `customer_age`               | 22             |
-| `dependent_count`            | 0              |
-| `months_on_book`             | 3864           |
-| `total_relationship_count`   | 5              |
-| `months_inactive_12_mon`     | 3316           |
-| `contacts_count_12_mon`      | 6297           |
-| `credit_limit`               | 9848           |
-| `total_revolving_bal`        | 0              |
-| `avg_open_to_buy`            | 963            |
-| `total_amt_chng_q4_q1`       | 3961           |
-| `total_trans_amt`            | 896            |
-| `total_trans_ct`             | 2              |
-| `total_ct_chng_q4_q1`        | 3941           |
-| `avg_utilization_ratio`      | 0              |
+| `clientnum`                  | 0              |
+| `customer_age`               | 22             |
+| `dependent_count`            | 0              |
+| `months_on_book`             | 3864           |
+| `total_relationship_count`   | 5              |
+| `months_inactive_12_mon`     | 3316           |
+| `contacts_count_12_mon`      | 6297           |
+| `credit_limit`               | 9848           |
+| `total_revolving_bal`        | 0              |
+| `avg_open_to_buy`            | 963            |
+| `total_amt_chng_q4_q1`       | 3961           |
+| `total_trans_amt`            | 896            |
+| `total_trans_ct`             | 2              |
+| `total_ct_chng_q4_q1`        | 3941           |
+| `avg_utilization_ratio`      | 0              |
 
 <figure>
     <center><img src="img/output_1.png" alt="Box-Plot Outlier"></center>
 </figure>
 
-Visualisasi melalui **boxplot** semakin memperjelas sebaran data dan keberadaan outlier di setiap fitur. Fitur seperti **months_on_book**, **credit_limit**, dan beberapa fitur lain tampak memiliki sebaran yang lebar dengan banyak data berada di luar whisker (batas IQR), yang mengindikasikan variasi nilai ekstrim dalam data tersebut.
+Visualisasi melalui **boxplot** semakin memperjelas sebaran data dan keberadaan outlier di setiap fitur. Fitur seperti **TrainingTimeLastYear**, **MonthlyIncome**, dan beberapa fitur lain tampak memiliki sebaran yang lebar dengan banyak data berada di luar whisker (batas IQR), yang mengindikasikan variasi nilai ekstrim dalam data tersebut.
 
 Meskipun demikian, outlier **tidak dihapus** dari dataset. Hal ini dilakukan untuk menjaga **keutuhan informasi**, mengingat data pencilan tersebut mencerminkan kondisi nyata seperti lonjakan transaksi pelanggan. Menghilangkan outlier justru berisiko menghilangkan pola penting dalam konteks analisis churn pelanggan.
 
-Sebagai langkah mitigasi terhadap pengaruh outlier, model _machine learning_ yang digunakan adalah model berbasis tree, sehingga lebih _robust_ terhadap outlier.
 
 ### [Exploratory Data Analysis] - Univariate Analysis
 
-#### Grafik 1: Distribusi Kategori Churn Pelanggan
-<figure>
-    <center><img src="img/output_2.png" alt="Distribusi Target"></center>
-</figure>
-
-Proporsi pelanggan churn dalam dataset hanya sebesar 16,1%, menunjukkan **ketidakseimbangan kelas yang signifikan**. Untuk mengatasi hal ini, diterapkan beberapa strategi berikut:
-
-1. **Stratified Hold-Out dan K-Fold Cross Validation** <br>
-   Digunakan untuk memastikan proporsi churn tetap seimbang pada data pelatihan, validasi, dan pengujian, termasuk saat penyetelan hiperparameter.
-
-2. **Penyesuaian Bobot Kelas** <br>
-   Diberikan bobot lebih tinggi pada kelas minoritas (churner) agar model lebih sensitif terhadap kesalahan klasifikasi pada kelas ini.
-
-3. **Prediksi Probabilistik & Precision-Recall Trade-off** <br>
-   Fokus diarahkan pada prediksi probabilitas churn, bukan hanya klasifikasi biner, agar keputusan bisnis lebih fleksibel. Analisis precision-recall digunakan untuk menjaga keseimbangan performa model.
-
-#### Grafik 2: Distribusi Fitur Numerik
+#### Grafik 1: Distribusi Fitur Numerik
 <figure>
     <center><img src="img/output_3.png" alt="Distribusi Fitur Numerik"></center>
 </figure>
@@ -322,214 +291,129 @@ Proporsi pelanggan churn dalam dataset hanya sebesar 16,1%, menunjukkan **ketida
 
 - Beberapa kategori seperti 0 bulan tidak aktif dan 6 kali kontak sangat jarang muncul. Selain itu, kategori kartu tidak seimbang—93% nasabah memakai kartu blue. Ketidakseimbangan ini perlu diperhatikan saat pemodelan untuk menghindari overfitting.
 
-### [Exploratory Data Analysis] - Multivariate Analysis
 
-#### Grafik 1: Matriks Korelasi Fitur Numerik
-<figure>
-    <center><img src="img/output_5.png" alt="Matriks Korelasi"></center>
-</figure>
-
-- Jumlah transaksi, saldo revolving, dan perubahan jumlah transaksi berkorelasi negatif dengan churn — makin rendah, makin besar risiko churn.
-- Umur dan lama menjadi nasabah berkorelasi positif — nasabah tua cenderung lebih loyal.
-- Credit limit dan avg utilization ratio berkorelasi negatif; sedangkan revolving balance dan avg utilization ratio berkorelasi positif.
-- Pria cenderung punya credit limit lebih tinggi.
-- Avg open to buy dan credit limit berkorelasi sempurna, sehingga avg open to buy akan dihapus karena redundan.
-
-Berikut distribusi beberapa hubungan di bawah ini.
-
-<figure>
-    <center><img src="img/output_6.png" alt="Scatter Plot Hubungan"></center>
-</figure>
-
-Menariknya, terdapat hubungan eksponensial menurun antara credit limit dan average utilization ratio. Artinya, semakin tinggi limit kredit, semakin rendah tingkat pemanfaatannya — dan penurunannya terjadi secara eksponensial. Dengan kata lain, nasabah dengan limit kredit tinggi cenderung lebih jarang menggunakan kartu kreditnya.
-
-#### Grafik 2: Distribusi Fitur Numerik Berdasarkan Churn Flag
-<figure>
-    <center><img src="img/output_7.png" alt="Distribusi Fitur Numerik by churn_flag"></center>
-</figure>
-
-- Nasabah yang churn cenderung memiliki 1–3 produk, limit kredit lebih rendah, dan saldo revolving lebih kecil—bahkan banyak yang nol. Mereka juga melakukan lebih sedikit transaksi, baik dari sisi jumlah maupun nominal, serta perubahan transaksi yang kecil. Hal ini sejalan dengan perilaku tidak aktif sebelum berhenti menggunakan layanan.
-
-- Rata-rata pemanfaatan kartu mereka juga rendah, bahkan banyak yang nol.
-
-- Meskipun diskretisasi fitur kontinu bisa membantu analisis, untuk keperluan prediksi menggunakan model seperti LightGBM, hal itu bisa menambah kompleksitas dan justru merugikan. Karena pola perbedaan churn dan non-churn sudah terlihat jelas, diskretisasi tidak dilakukan.
-
-#### Grafik 3: Distribusi Fitur Kategorik Berdasarkan Churn Rate
-<figure>
-    <center><img src="img/output_8.png" alt="Distribusi Kategorik Numerik by churn_rate"></center>
-</figure>
-
-- Tingkat churn meningkat seiring frekuensi kontak dengan bank; seluruh nasabah yang menghubungi sebanyak 6 kali tercatat churn.
-- Kategori *unknown* pada status pernikahan memiliki tingkat churn tertinggi; pada tingkat pendidikan dan pendapatan, kategori ini menempati posisi kedua tertinggi. Oleh karena itu, kategori *unknown* sebaiknya tetap disertakan dalam tahap prapemrosesan karena memiliki daya diskriminasi.
-- Meskipun distribusi jenis kartu sangat tidak seimbang (didominasi tipe *blue*), tingkat churn bervariasi antar kategori. Tipe *platinum* menunjukkan tingkat churn tertinggi. Variabel ini tetap digunakan untuk dianalisis lebih lanjut melalui pemilihan fitur atau penilaian pentingnya fitur dalam model prediktif seperti LightGBM.
-- Tingkat churn lebih tinggi pada nasabah perempuan.
-- Secara mengejutkan, nasabah yang tidak pernah tidak aktif selama 12 bulan terakhir justru memiliki tingkat churn tertinggi.
-- Nasabah dengan tingkat pendidikan doktoral memiliki tingkat churn tertinggi dibandingkan kelompok pendidikan lainnya.
-
-### [Kesimpulan EDA]
-
-- Distribusi rasio pemanfaatan kartu kredit cenderung miring kanan, dengan sekitar 25% nasabah tidak menggunakan layanan sama sekali. Oleh karena itu, bank perlu mengembangkan strategi untuk meningkatkan tingkat pemanfaatan guna mendongkrak pendapatan.
-
-- Sebanyak 90% nasabah tidak aktif selama 1–3 bulan terakhir. Bank harus menyiapkan langkah-langkah untuk mengurangi tingkat ketidakaktifan tersebut.
-
-- Sekitar 75% nasabah menghubungi bank minimal dua kali dalam setahun. Bank perlu menggali lebih dalam alasan di balik panggilan tersebut, terutama apakah terdapat indikasi ketidakpuasan terhadap layanan.
-
-- Terdapat korelasi positif yang kuat antara usia nasabah dan lama menjadi nasabah. Bank sebaiknya fokus pada upaya mempertahankan nasabah lama sekaligus meningkatkan masa aktif nasabah muda.
-
-- Hubungan antara limit kredit dan tingkat pemanfaatan bersifat menurun secara eksponensial; nasabah dengan limit tinggi cenderung menggunakan kartu mereka dengan tingkat pemanfaatan yang lebih rendah.
-
-- Nasabah yang churn umumnya memiliki limit kredit, saldo revolving, jumlah transaksi, serta tingkat pemanfaatan yang lebih rendah, bahkan banyak di antaranya tidak menggunakan kartu sama sekali.
-
-- Tingkat churn meningkat seiring dengan banyaknya kontak nasabah ke bank; khususnya, seluruh nasabah yang melakukan enam kali kontak dilaporkan churn. Selain itu, nasabah dengan tingkat pendidikan doktoral menunjukkan tingkat churn tertinggi dibandingkan kelompok lainnya.
-
----
 
 ## Data Preparation
 
-### 1. Label Encoding dengan Mapping pada Fitur Target
-
-Proses encoding dilakukan secara manual untuk fitur target **churn_flag**. Mapping digunakan sebagai berikut:
-
-| Kategori Churn Flag             | Label |
-|---------------------------------|-------|
-| `Existing Customer` => No Churn | 0     |
-| `Attrited Customer` => Churn    | 1     |
-
-### 2. Splitting Dataset
-
-- Menetapkan `stratify = y` sehingga fungsi train_test_split memastikan bahwa proses pemisahan mempertahankan persentase yang sama dari setiap kelas target di set train dan test.
-
-Dataset yang digunakan dalam analisis ini terdiri dari data pelatihan (train) dan data pengujian (test) dengan rincian sebagai berikut:
-
-- **Ukuran data fitur (train)**: 8.101 observasi dengan 20 fitur.
-- **Ukuran data target (train)**: 8.101 observasi.
-- **Ukuran data fitur (test)**: 2.026 observasi dengan 20 fitur.
-- **Ukuran data target (test)**: 2.026 observasi.
-
-#### Proporsi Kelas pada Variabel Target
-
-Distribusi proporsi kelas pada variabel target `churn_flag` untuk masing-masing data adalah sebagai berikut:
-
-- **Data Pelatihan (Train)**:
-  - Kelas 0 (tidak churn): 83,93%
-  - Kelas 1 (churn): 16,07%
-
-- **Data Pengujian (Test)**:
-  - Kelas 0 (tidak churn): 83,96%
-  - Kelas 1 (churn): 16,04%
-
-Distribusi kelas yang relatif seimbang antara data pelatihan dan pengujian menunjukkan bahwa proses pembagian data telah mempertahankan proporsi kelas, sehingga model dapat dilatih dan dievaluasi secara konsisten terhadap fenomena *churn*.
-
-### 3. Feature Engineering, Data Cleaning and Preprocessing¶
+###1. Feature Engineering, Data Cleaning and Preprocessing¶
 
 Preprocessing untuk Model Berbasis Tree
 - **Fitur Numerik**: <br/>
-    Tidak akan dilakukan transformasi apa pun karena model berbasis tree tidak memerlukan _feature scaling_.
+    Akan dilakukan transformasi karena untuk menyeragamkan skala dari berbagai fitur sehingga memiliki rentang nilai yang comparable. Tanpa scaling, fitur dengan skala besar (seperti MonthlyIncome) dapat mendominasi model machine learning dibandingkan fitur berskala kecil (seperti Age), yang menyebabkan model menjadi bias.
 
-- **Fitur Kategorikal** (Ordinal => education level, income category, dan card category): <br/>
-    Akan diterapkan ordinal encoding untuk mempertahankan karakteristik ordinal.
-
-- **Fitur Kategorikal** (Nominal => marital status): <br/>
-    Akan diterapkan target encoding karena penggunaan one-hot encoding dapat merugikan model berbasis tree akibat _sparse representation_ dan meningkatnya dimensi.
-
-- **Fitur Gender**:
-    Akan diterapkan one-hot encoding karena fitur ini akan diubah menjadi variabel biner unik, sehingga tidak meningkatkan dimensi.
-
-**Feature Engineering**
-
-Untuk mendapatkan informasi maksimal dari fitur yang tersedia, dilakukan _feature engineering_ yang sudah terintegrasi dalam preprocessing dengan membuat fitur-fitur berikut:
-
-Fitur Rasio: <br/>
-<pre>
-1. `products_per_dependent`      = total_relationship_count / dependent_count
-2. `trans_amt_per_dependent`     = total_trans_amt / dependent_count
-3. `trans_ct_per_dependent`      = total_trans_ct / dependent_count
-4. `trans_amt_per_products`      = total_trans_amt / total_relationship_count
-5. `trans_ct_per_products`       = total_trans_ct / total_relationship_count
-6. `avg_trans_amt`               = total_trans_amt / total_trans_ct
-7. `credit_util_rate`            = total_revolving_bal / credit_limit
-8. `proportion_inactive_months`  = months_inactive_12_mon / months_on_book
-9. `products_per_tenure`         = total_relationship_count / months_on_book
-10. `products_per_contacts`      = total_relationship_count / contacts_count_12_mon
-11. `dependents_per_contacts`    = dependent_count / contacts_count_12_mon
-12. `trans_ct_per_contacts`      = total_trans_ct / contacts_count_12_mon
-13. `products_per_inactivity`    = total_relationship_count / months_inactive_12_mon
-14. `dependents_per_inactivity`  = dependent_count / months_inactive_12_mon
-15. `trans_ct_per_inactivity`    = total_trans_ct / months_inactive_12_mon
-16. `trans_amt_per_credit_limit` = total_trans_amt / credit_limit
-17. `age_per_tenure`             = customer_age / months_on_book
-18. `trans_ct_per_tenure`        = total_trans_ct / months_on_book
-19. `trans_amt_per_tenure`       = total_trans_amt / months_on_book
-</pre>
-
-Fitur Penjumlahan: <br/>
-<pre>
-1. `total_spending`              = total_trans_amt + total_revolving_bal
-2. `education_income_levels`     = education_level + income_category (ordinal)
-3. `inactivity_contacts`         = contacts_count_12_mon + months_inactive_12_mon
-</pre>
-
-Fitur-fitur di atas dapat menangkap hubungan dan pola tersembunyi, serta relevan dalam konteks bisnis. Hal ini sangat penting untuk diperhatikan saat melakukan _feature engineering_.
-
-**Penanganan Kategori `Unknown`**
-
-income_category, marital_status, dan education_level:
-
-Mempertahankan kategori `unknown` sebagai salah satu kategori dalam variabel-variabel tersebut. Hal ini dikarenakan hasil EDA menunjukkan bahwa kategori ini memberikan diskriminasi antara _churner_ dan _non-churner_.
-
-- Pada `marital_status`, kategori `unknown` memiliki tingkat _churn_ tertinggi.
-- Pada `education_level` dan `income_category`, kategori `unknown` memiliki tingkat _churn_ tertinggi kedua.
-
-Dengan demikian, tidak dilakukan imputasi karena hal tersebut dapat memperkenalkan bias dan menghilangkan informasi penting.
-
-**Penanganan Variabel `card_category`**
-
-Mempertahankan variabel `card_category` dalam data meskipun distribusinya sangat tidak seimbang (_imbalanced_). Hasil EDA menunjukkan bahwa kategori Gold dan Silver memiliki tingkat churn yang lebih tinggi.
+- **Fitur Kategorikal**. <br/>
+    Akan diterapkan categorical encoding pada variabel dengan tipe **object*. Tanpa encoding, model tidak dapat memproses data kategorikal karena algoritma ML hanya bekerja pada data numerik.
 
 **Variabel yang Akan Dihapus**
+'JobLevel', 'YearsInCurrentRole', 'YearsWithCurrManager'
 
-1. `avg_open_to_buy`: <br/>
-    Akan dihapus karena memiliki korelasi positif sempurna dengan credit_limit, sehingga informasinya menjadi redundan.
-2. `CLIENTNUM`: <br/>
-    Akan dihapus karena memiliki nilai unik untuk setiap _record_, sehingga tidak berguna untuk analisis.
+1. `JobLevel`, ‘YearsInCurrentRole’, ‘YearsWithCurrManager’: <br/>
+    Akan dihapus karena memiliki korelasi positif tinggi, sehingga informasinya menjadi redundan.
+2. 'EmployeeCount', 'Over18', 'StandardHours': <br/>
+    Akan dihapus karena memiliki nilai yang sama semua setiap recordnya, sehingga tidak memiliki pengaruh untuk analisis.
+2. 'id': <br/>
+    Akan dihapus karena memiliki nilai yang unik untuk setiap recordnya, sehingga tidak berguna untuk analisis.
 
 ---
 
-## Model Training, Comparison, Selection and Tuning
+## Model Training, Comparison
 
 ### 1. Model Selection
 
-Pada tahap pengembangan model, digunakan tiga algoritma klasifikasi berbasis tree yang umum dan efektif, yaitu Decision Tree (DT), Random Forest (RF), dan LightGBM (LGBM). Pemilihan ketiga model tersebut didasarkan pada karakteristik masing-masing serta tujuan untuk membandingkan performa secara empiris.
+Pada tahap pengembangan model prediksi **Employee Attrition**, digunakan 3 pendekatan yaitu pendekatan menggunakan **GridSearchCV**, pendekatan gabungan **XGBoost** dan **RandomizedSearchCV**, dan pendekatan yang terakhir adalah **stacking ensemble** yang mengombinasikan tiga model berbasis gradient boosting yaitu **XGBoost**, **LightGBM**, dan **CatBoost**  dengan model meta-learner **Logistic Regression** sebagai estimator akhir.
+Ketiga algoritma dipilih karena masing-masing memiliki keunggulan berbeda dalam menangani data tabular dengan fitur numerik maupun kategorikal, serta dikenal memiliki performa tinggi untuk masalah klasifikasi biner.
 
-#### Decision Tree (DT)
-
+#### GridSearchCV
 ```python
-from sklearn.tree import DecisionTreeClassifier
+from sklearn.model_selection import GridSearchCV
 
-dt_model = DecisionTreeClassifier()
-dt_model.fit(X_train_scaled, y_train)
+rf_grid_search = GridSearchCV(
+    estimator=rf,
+    param_grid=param_grid,
+    scoring='roc_auc',
+    cv=3,
+    verbose=2,
+    n_jobs=-1
+)
 ```
-[Decision Tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) merupakan model klasifikasi yang membagi data berdasarkan fitur yang paling informatif. Model ini bekerja dengan membuat pohon keputusan dari akar hingga daun berdasarkan aturan if-else yang memaksimalkan pemisahan kelas. Sebagai model yang mudah dipahami dan divisualisasikan, Decision Tree cocok digunakan sebagai baseline yang interpretatif.
+[GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html?utm_source) adalah metode dalam scikit-learn yang digunakan untuk melakukan pencarian parameter secara menyeluruh (exhaustive search) pada model pembelajaran mesin. Metode ini menguji semua kombinasi parameter yang ditentukan dalam `param_grid` dan mengevaluasi setiap kombinasi menggunakan cross-validation untuk menentukan kombinasi parameter yang memberikan performa terbaik. Hasilnya adalah model dengan hyperparameter yang dioptimalkan, yang dapat digunakan untuk prediksi lebih lanjut. GridSearchCV juga mendukung evaluasi dengan beberapa metrik dan dapat digunakan bersama dengan pipeline untuk mengoptimalkan parameter pada tahap transformasi dan klasifikasi secara bersamaan. 
 
-#### Random Forest (RF)
+#### RandomizedSearchCV
+```python
+from sklearn.model_selection import RandomizedSearchCV
 
-````python
-from sklearn.ensemble import RandomForestClassifier
+xgb_random_search = RandomizedSearchCV(
+    estimator=xgb,
+    param_distributions=param_dist,
+    n_iter=30,
+    scoring='roc_auc',
+    cv=3,
+    verbose=2,
+    random_state=42,
+    n_jobs=-1
+)
+```
+[RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html) adalah metode di scikit-learn untuk mencari hyperparameter terbaik pada model machine learning dengan cara sampling acak dari ruang parameter yang ditentukan, bukan mengecek semua kombinasi seperti GridSearchCV. Metode ini menggunakan cross-validation untuk menilai performa setiap kombinasi parameter yang dipilih secara acak sehingga proses tuning lebih cepat dan efisien, terutama jika jumlah parameter besar atau ruang parameter sangat luas. RandomizedSearchCV cocok ketika waktu komputasi terbatas atau ketika beberapa parameter memiliki pengaruh kecil terhadap performa model.
 
-rf_model = RandomForestClassifier()
-rf_model.fit(X_train_scaled, y_train)
-````
-[Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html) adalah metode ensemble yang menggabungkan banyak pohon keputusan untuk meningkatkan akurasi dan stabilitas prediksi. Dengan membangun pohon pada subset data secara acak dan menggabungkan hasilnya, model ini mampu mengurangi overfitting dan bekerja baik pada data dengan banyak fitur.
 
-#### LightGBM (LGBM)
+#### XGBoost
+```python
+from xgboost import XGBClassifier
+
+xgb = XGBClassifier(
+    n_estimators=800,
+    learning_rate=0.03,
+    max_depth=6,
+    subsample=0.85,
+    colsample_bytree=0.85,
+    scale_pos_weight=2,
+    reg_lambda=1.2,
+    reg_alpha=0.2,
+    eval_metric="auc",
+    random_state=42
+)
+
+```
+[XGBoost](https://xgboost.readthedocs.io/en/stable/python/python_api.html) adalah algoritma boosting berbasis pohon yang dibangun untuk efisiensi dan performa tinggi.Model ini mengoptimalkan fungsi kehilangan secara bertahap dengan menambahkan pohon baru yang memperbaiki kesalahan dari pohon sebelumnya. Penggunaan parameter seperti scale_pos_weight dan reg_lambda membantu menangani ketidakseimbangan kelas serta mencegah overfitting. XGBoost dikenal unggul dalam kestabilan prediksi dan kecepatan pelatihan.
+
+#### LightGBM
 
 ````python
 from lightgbm import LGBMClassifier
 
-lgbm_model = LGBMClassifier()
-lgbm_model.fit(X_train_scaled, y_train)
+lgbm = LGBMClassifier(
+    n_estimators=800,
+    learning_rate=0.03,
+    num_leaves=40,
+    subsample=0.85,
+    colsample_bytree=0.85,
+    class_weight='balanced',
+    random_state=42,
+    metric='auc'
+)
+
 ````
-[LightGBM](https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMClassifier.html) adalah algoritma boosting berbasis pohon yang dikembangkan untuk efisiensi tinggi dan kecepatan pelatihan. Model ini bekerja dengan pendekatan leaf-wise dan mampu menangani dataset besar dengan performa tinggi.
+[LightGBM](https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMClassifier.html) merupakan algoritma gradient boosting yang dikembangkan oleh Microsoft, dengan keunggulan pada efisiensi memori dan waktu pelatihan. LightGBM menggunakan pendekatan leaf-wise tree growth, yang memperluas cabang dengan loss reduction tertinggi, menghasilkan model yang lebih akurat pada jumlah pohon yang sama. Parameter class_weight='balanced' membantu mengoreksi bias kelas minoritas, sedangkan num_leaves mengontrol kompleksitas model untuk menjaga keseimbangan antara bias dan varians.
+
+#### CatBoost (Categorical Boosting)
+
+
+````python
+from catboost import CatBoostClassifier
+
+cat = CatBoostClassifier(
+    iterations=800,
+    learning_rate=0.03,
+    depth=6,
+    l2_leaf_reg=2,
+    eval_metric='AUC',
+    verbose=0,
+    random_seed=42
+)
+
+````
+[CatBoost](https://catboost.ai/docs/en/) adalah algoritma gradient boosting yang dirancang khusus untuk menangani fitur kategorikal tanpa perlu encoding manual.
+Dengan teknik ordered boosting dan target statistics, CatBoost mampu mengurangi overfitting serta meningkatkan stabilitas prediksi. Model ini bekerja sangat baik pada data tabular dengan kombinasi fitur numerik dan kategorikal, serta memiliki interpretabilitas yang lebih tinggi dibanding metode boosting lain.
 
 Ketiga model ini digunakan dengan pengaturan parameter awal sebagai percobaan dasar
 
@@ -541,69 +425,22 @@ Ketiga model ini digunakan dengan pengaturan parameter awal sebagai percobaan da
 
 #### Tabel Perbandingan Performa Model
 
-| Metrik               | LightGBM | Random Forest  | Decision Tree  |
-|----------------------|----------|----------------|----------------|
-| ROC AUC (Val)        | 0.992292 | 0.988307       | 0.876184       |
-| Akurasi (Val)        | 0.969263 | 0.958400       | 0.933094       |
-| Recall (Val)         | 0.879434 | 0.805721       | 0.780342       |
-| Spesifisitas (Val)   | 0.986468 | 0.989410       | 0.960729       |
-| ROC AUC (Train)      | 1.0      | 1.0            | 1.0            |
-| Akurasi (Train)      | 1.0      | 1.0            | 1.0            |
-| Recall (Train)       | 1.0      | 1.0            | 1.0            |
-| Spesifisitas (Train) | 1.0      | 1.0            | 1.0            |
-| Waktu Latih (detik)  | 0.296113 | 3.120936       | 0.369970       |
+| Metrik | RandomForest | XGBoost | Stacking Ensemble |
+|--------|--------------|---------|------------------|
+| ROC AUC (Val) | 0.793493 | 0.808087 | 0.948683 |
+| Akurasi (Val) | 0.858844 | 0.857143 | 0.910074 |
+| Recall (Val) | 0.157895 | 0.315789 | 0.805274 |
 
 <figure>
     <center><img src="img/output_9.png" alt="Hasil Performa Model"></center>
 </figure>
 
-Model **LightGBM** dipilih untuk proses _feature selection_, _hyperparameter tuning_, dan evaluasi akhir karena menunjukkan performa terbaik dengan rata-rata skor **ROC-AUC validasi tertinggi**. Meskipun model mengalami indikasi _overfitting_ (skor ROC-AUC sebesar 1 pada data pelatihan), hasil validasi tetap sangat tinggi (**0,99**), menunjukkan generalisasi yang kuat.
+Berdasarkan hasil evaluasi pada data validasi, **Stacking Ensemble** dipilih sebagai model utama karena menunjukkan performa terbaik dibandingkan RandomForest dan XGBoost tunggal. Hal ini terlihat dari skor **ROC-AUC validasi tertinggi (0,9487)**, yang mengindikasikan kemampuan model dalam membedakan kelas secara akurat antara nasabah yang churn dan tidak.
+Meskipun RandomForest dan XGBoost memiliki skor akurasi yang cukup tinggi (masing-masing 0,8588 dan 0,8571), nilai **recall mereka relatif rendah (0,158 dan 0,316)**. Ini menandakan bahwa kedua model tunggal ini kurang sensitif dalam mendeteksi nasabah yang churn. Sebaliknya, Stacking Ensemble berhasil meningkatkan recall hingga 0,8053, sehingga lebih mampu menangkap kasus churn, sambil tetap mempertahankan spesifisitas yang tinggi (0,97), sehingga jumlah false positive tetap rendah.
+Skor akurasi validasi Stacking Ensemble (0,9101) dan spesifisitas yang tinggi menunjukkan bahwa model ini tidak hanya unggul dalam mendeteksi churn, tetapi juga tetap akurat dalam mengklasifikasikan nasabah non-churn, sehingga keseimbangan antara sensitifitas dan spesifisitas terjaga dengan baik.
+Performa ini mencerminkan kualitas data yang baik dan efektivitas pendekatan ensemble, di mana kombinasi beberapa model (XGBoost, LGBM, dan CatBoost) mampu menangkap pola yang tidak tertangkap oleh model tunggal. Meskipun potensi peningkatan performa lebih lanjut melalui hyperparameter tuning relatif kecil, langkah tersebut tetap direkomendasikan untuk menyempurnakan model.
 
-Performa luar biasa ini **bukan disebabkan oleh kebocoran data**, karena seluruh fitur yang digunakan tersedia pada saat prediksi dan pembagian data dilakukan secara tepat sebelum proses modeling. Hasil ini mencerminkan **kualitas data yang baik**, di mana variabel independen secara jelas mampu membedakan antara nasabah yang churn dan tidak.
 
-Meskipun potensi peningkatan performa lebih lanjut melalui _hyperparameter tuning_ relatif kecil, langkah tersebut **tetap akan dilakukan** sebagai bagian dari proses penyempurnaan model.
-
-### 2. Feature Selection
-
-- Langkah seleksi fitur sangat penting untuk meningkatkan kemampuan generalisasi model dan membuatnya lebih sederhana, sehingga menambah efisiensi komputasi. Mengingat terdapat 40 fitur, menyederhanakan model tanpa kehilangan performa adalah keuntungan yang sangat besar. Digunakan metode _Recursive Feature Elimination_ (RFE) untuk seleksi fitur.
-
-- _Recursive Feature Elimination_ (RFE) adalah metode seleksi fitur yang secara sistematis menghilangkan fitur yang tidak relevan atau kurang penting dari model prediktif. Metode ini bekerja dengan melatih model secara berulang pada subset fitur, memberikan peringkat berdasarkan pentingnya fitur, dan mengeliminasi fitur yang paling tidak penting hingga jumlah fitur yang diinginkan tercapai.
-
-- Salah satu hyperparameter penting dalam RFE adalah jumlah akhir fitur yang diinginkan. Untuk menentukan nilai ini secara otomatis, akan digunakan kelas `RFECV` dari sklearn. `RFECV` akan menerapkan _stratified k-fold cross-validation_ untuk menemukan nilai terbaik dari hyperparameter tersebut.
-
-#### Daftar Fitur Terpilih (Feature Selection)
-
-| No | Nama Fitur                    |
-|----|-------------------------------|
-| 0  | customer_age                  |
-| 1  | contacts_count_12_mon         |
-| 2  | credit_limit                  |
-| 3  | total_revolving_bal           |
-| 4  | total_amt_chng_q4_q1          |
-| 5  | total_trans_amt               |
-| 6  | total_trans_ct                |
-| 7  | total_ct_chng_q4_q1           |
-| 8  | avg_utilization_ratio         |
-| 9  | trans_amt_per_dependent       |
-| 10 | trans_ct_per_dependent        |
-| 11 | trans_amt_per_products        |
-| 12 | trans_ct_per_products         |
-| 13 | avg_trans_amt                 |
-| 14 | proportion_inactive_months    |
-| 15 | products_per_tenure           |
-| 16 | trans_ct_per_contacts         |
-| 17 | products_per_inactivity       |
-| 18 | trans_ct_per_inactivity       |
-| 19 | trans_amt_per_credit_limit    |
-| 20 | age_per_tenure                |
-| 21 | trans_ct_per_tenure           |
-| 22 | trans_amt_per_tenure          |
-| 23 | total_spending                |
-| 24 | education_income_levels       |
-
-- Seperti yang dapat dilihat, fitur-fitur yang menunjukkan diskriminasi yang jelas antara _churners_ dan _non-churners_ tetap dipertahankan, seperti **total_trans_ct** dan **total_trans_amt**. Selain itu, banyak fitur yang dihasilkan dari proses rekayasa fitur juga tetap dipertahankan, menunjukkan pentingnya tahap ini terhadap performa model.
-
-- Sebagai hasilnya, jumlah fitur berhasil dikurangi dari 40 menjadi 25 fitur paling penting, yang secara signifikan mengurangi kompleksitas komputasi.
 
 ### 3. Hyperparameter Tuning
 
@@ -860,3 +697,5 @@ Berdasarkan estimasi awal, proyek ini memiliki potensi memberikan dampak finansi
 
 ### Langkah Selanjutnya
 Tahap selanjutnya dari proyek ini adalah deploy model ke dalam lingkungan produksi dengan menerapkan prinsip _Continuous Integration/Continuous Deployment_ (CI/CD). Langkah ini bertujuan untuk memastikan proses otomatisasi yang berkelanjutan serta pemeliharaan model yang efisien dan dapat diandalkan di lingkungan operasional.
+
+
